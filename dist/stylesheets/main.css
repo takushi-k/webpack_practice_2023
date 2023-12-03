@@ -1,4 +1,7 @@
-body{
+body {
   color: lightblue;
 }
 
+.content .title {
+  font-size: 24px;
+}
